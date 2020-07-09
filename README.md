@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yesmeck.yesmeck)
+
 ## 📊 Weekly development breakdown
 ```
 JavaScript  9 hrs 11 mins  ███████▉░░░░░░░░░░░░░  38.0%
