@@ -1,4 +1,4 @@
-📊 Weekly development breakdown
+## 📊 Weekly development breakdown
 ```
 JavaScript  9 hrs 11 mins  ███████▉░░░░░░░░░░░░░  38.0%
 TypeScript  8 hrs 29 mins  ███████▍░░░░░░░░░░░░░  35.1%
