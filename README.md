@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" />
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" />
 </p>
