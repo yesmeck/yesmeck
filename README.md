@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="64" height="64" />
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="48" height="48" />
   </a>
 </p>
 
